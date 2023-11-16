@@ -1,2 +1,3 @@
-# taller-git20231116
-Taller de Git y Github
+# Taller de Git y Github
+Ejercicio de demostración de teoría
+Lima, 16 de Noviembre de 2023
